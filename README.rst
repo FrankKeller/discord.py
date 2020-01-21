@@ -16,10 +16,10 @@ A modern, easy to use, feature-rich, and async ready API wrapper for Discord wri
 Key Features
 -------------
 
-- Modern Pythonic API using ``async`` and ``await``.
-- Proper rate limit handling.
-- 100% coverage of the supported Discord API.
-- Optimised in both speed and memory.
+- Modern "Pythonic" API using ``async`` and ``await``.
+- Proper rate limit handling. (lol no)
+- 100% coverage of the supported Discord API. (nope)
+- Optimised in both speed and memory. (definetly not)
 
 Installing
 ----------
